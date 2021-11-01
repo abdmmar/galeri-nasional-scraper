@@ -1,0 +1,16 @@
+{
+  "name": "galnas",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Abdullah Ammar <abd.ammar.mar@gmail.com> (https://abdmmar.tech/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.10",
+    "node-fetch": "3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.1.0",
+    "prettier": "2.4.1"
+  }
+}
